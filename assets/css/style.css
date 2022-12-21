@@ -1,0 +1,26 @@
+header,
+footer{
+    background-color: #d4d4d4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.bg-blue{
+    background-color: #408aca;
+}
+
+.text-white{
+    color: #FFF;
+}
+
+.text-right{
+    text-align: right;
+}
